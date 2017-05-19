@@ -4,11 +4,6 @@ import java.awt.event.*;
 import javax.swing.*;
 import java.util.*;
 
-/**
- * Created by: Tom Lauwers
- * Date: 10/15/2010
- * Simple program to have the Finch do a dance
- */
 
 
 import edu.cmu.ri.createlab.terk.robot.finch.Finch;
